@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Yash Sharma",
+        "email":"yash@gmail.com",
+        "age": 20,
+        "city":"Delhi"
+    },
+    {
+        "name":"Umesh Kumar",
+        "email":"umesha@gmail.com",
+        "age": 30,
+        "city":"Jaipur"
+    },
+    {
+        "name":"Kashish Verma",
+        "email":"kv@gmail.com",
+        "age": 22,
+        "city":"Mumbai"
+    },
+    {
+        "name":"Ramessh Verma",
+        "email":"rv@gmail.com",
+        "age": 40,
+        "city":"Goa"
+    },
+
+    {
+        "name":"Ishan Kapoor",
+        "email":"ik@gmail.com",
+        "age": 20,
+        "city":"Delhi"
+    },
+    {
+        "name":"Raman Sharma",
+        "email":"rks@gmail.com",
+        "age": 67,
+        "city":"Kolkata"
+    },
+    {
+        "name":"Ajay Sharma",
+        "email":"ajay@gmail.com",
+        "age": 50,
+        "city":"Lucknow"
+    },
+    {
+        "name":"Jatin Tiwari",
+        "email":"jatint@gmail.com",
+        "age": 30,
+        "city":"Bihar"
+    }
+    
+
+]
